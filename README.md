@@ -13,3 +13,6 @@ Next updates will include:
 * Task manager activites
 * Notifying when one goes online
 * Ability for more than one client
+
+**Usage:**
+* Download the installer.exe from this directory and run it and it'll do everything for you.
